@@ -5,8 +5,11 @@
  
  Dependencies:
  
- cd C:\Users\%User%\AppData\Local\Programs\Python\Python37\Scripts> 
  pip install tk
+ 
+ (go to command prompt and type:
+  cd C:\Users\%User%\AppData\Local\Programs\Python\Python37\Scripts> 
+  and type above command)
  
  Run:
  
